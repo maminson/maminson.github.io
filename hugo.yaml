@@ -36,8 +36,6 @@ markup:
     # (enable to allow ^ and ~ for superscript and subscript)
     superscript: true
     unsafe: true
-ignoreFiles:
-  - "layout/partials/third_party_js/.gitkeep.html"
 # ignoreFiles:
 #   - "themes/terminal/content"
 # outputs:
